@@ -50,7 +50,6 @@ Simple-Linear-Regression/
 │
 ├── advertising.csv
 ├── Simple+Linear+Regression+in+Python.ipynb
-├── simple_linear_regression_self.ipynb
 ├── scripts/
 │   └── compute_metrics.py
 └── README.md
